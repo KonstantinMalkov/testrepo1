@@ -5,7 +5,7 @@ import java.util.*;
 public class MainHomeWork3 {
     public static void main(String[] args) {
         String[] words = {"Шарик", "Барсик", "Васька", "Тузик", "Полкан", "Тузик", "Рыжик", "Полкан", "Муся", "Тузик"};
-
+        // HashMap это структура
         //1.1
         Map<String, Integer> map = new HashMap<>();
         for (String word : words) {
