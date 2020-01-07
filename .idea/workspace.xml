@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f290505f-fd4f-486c-8cd5-1072c7d911dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java2_lesson2/EnumHomeWork/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_lesson2/EnumHomeWork/_Main_EnumHomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_lesson2/ExpectionHomeWork/Convertacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_lesson2/ExpectionHomeWork/HeirExpection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_lesson2/ExpectionHomeWork/MyArrayDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_lesson2/ExpectionHomeWork/MyArraySizeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_lesson2/ExpectionHomeWork/_Main_TaskExpection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_lesson2/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f290505f-fd4f-486c-8cd5-1072c7d911dd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
